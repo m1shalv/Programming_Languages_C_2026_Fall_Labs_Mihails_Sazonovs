@@ -10,12 +10,14 @@ long long factorial(int n){
     
 int main(){
     int n;
+    do{
     printf("Enter the number:");
     scanf("%d", &n);
     if(n<0){
-        printf("Error: numer must be positive\n");
-    }else{
-        printf("Factorial is: %lld\n", factorial(n));
-    }
+        printf("Error: number must be positive\n");
+        }
+    }while(n<0);
+    
+    printf("Factorial is: %lld\n", factorial(n));
     return 0;
 }
