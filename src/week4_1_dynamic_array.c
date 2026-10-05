@@ -1,5 +1,4 @@
-/*
- * week4_1_dynamic_array.c
+ /* week4_1_dynamic_array.c
  * Author: Mihails Sazonovs
  * Student ID: 251RDC077
  * Description:

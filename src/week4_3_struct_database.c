@@ -1,5 +1,4 @@
-/*
- * week4_3_struct_database.c
+/* week4_3_struct_database.c
  * Author: Mihails Sazonovs
  * Student ID: 251RDC077
  * Description:
